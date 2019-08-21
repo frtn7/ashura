@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1e6d39ad-7481-4be2-a1f9-8ac580463186" name="ashuras" url="http://localhost/ashura">
+        <fileTransfer port="0" mountedRoot="C:\xampp\htdocs\ashura" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
